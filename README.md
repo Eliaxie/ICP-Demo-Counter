@@ -1,7 +1,8 @@
 # rust_counter
 # Elia Maggioni - 10610008
 # References
-Slides are elaborated from https://dfinity.org/presentations/NetworkSecETH0422.pdf\
+Slides are elaborated from https://dfinity.org/presentations/NetworkSecETH0422.pdf
+
 The code implementation is written on top of DFINITY counter and quickstart https://internetcomputer.org/docs/current/developer-docs/backend/rust/counter
 
 # Setup and preparation
